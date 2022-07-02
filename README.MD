@@ -3,7 +3,7 @@
 web3, advanced physics engines, art, topology, geometry, music, optigenetics, neuroscience, reality itself, and mind, so alot ahahaha!  
 - 🌱 I’m currently learning solidity, qiskit, web3 development in general, also blender, creating in Vr using unreal engine, and alot more!  
 - 💞️ I’m looking to collaborate on web3 projects, nfts, music, a meta physics engine, development, and im very open to expansive ideas!
-- 📫 How to reach me ... @crystAlline_K42 = my twitter! 
+- 📫 How to reach me ... https://twitter.com/CrystAlline_K42 = my twitter! 
 
 Here is one of my web3 qualifications: 
 
