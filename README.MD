@@ -12,7 +12,9 @@ Here is one of my web3 qualifications:
 If you need Web3 work done, I am ready for Gigs and collabrative bounties! 
 
 Here are 2 of my web2 qualifications: 
+
 For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
+
 For JavaScript:  https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2
 
 <!---
