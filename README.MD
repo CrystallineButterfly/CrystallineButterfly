@@ -8,7 +8,7 @@
 
 **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
 
-**Here is of one of my most recent web3 qualification- A verified qualification NFT** 
+**Here is of one of my most recent web3 qualifications- A verified qualification NFT** 
 
 ![Web 3 junior](https://user-images.githubusercontent.com/95975209/179016747-b7557326-2d06-4e01-9fff-0bcccec0eac4.jpg)
 
