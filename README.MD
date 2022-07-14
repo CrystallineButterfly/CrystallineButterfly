@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrystallineButterfly
+- 🦋 **Hi, I’m @CrystallineButterfly** 🦋
 - 👀 I’m interested in quantum computing, machine learning and NFTS, web3, advanced physics engines, 
 - As well as art, topology and geometry, music, optigenetics, neuroscience, reality itself, and mind!  
 - 🌱 I’m currently learning and am active with solidity, qiskit, web3 development in general, also blender, 
