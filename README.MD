@@ -6,14 +6,13 @@
 - 💞️ I’m ready to synergise on web3 projects, nfts, music, a meta physics engine, development, and im very open to expansive ideas!
 - 📫 Communicate to me here! = https://twitter.com/CrystAlline_K42
 
-I am open and ready for web3 gigs, and hackathon/bounty collaboration- 
+**I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
 
-Here are 2 of my web3 qualifications: 
+**Here is of one of my most recent web3 qualification- A verified qualification NFT** 
 
-![Web3 Sophmore](https://user-images.githubusercontent.com/95975209/177014238-214dad53-9870-4c9a-8c41-51cb1e89d11e.jpg)
-![junior](https://user-images.githubusercontent.com/95975209/179016747-b7557326-2d06-4e01-9fff-0bcccec0eac4.jpg)
+![Web 3 junior](https://user-images.githubusercontent.com/95975209/179016747-b7557326-2d06-4e01-9fff-0bcccec0eac4.jpg)
 
-*If you need Web3 work done, I am ready for Gigs and collabrative bounties! 
+**If you need Web3 work done, I am ready for Gigs and collabrative bounties** 
 
 Here are 2 of my web2 qualifications: 
 
