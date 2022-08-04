@@ -21,6 +21,8 @@ For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
 
 For JavaScript:  https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2
 
+For React/Redux: https://www.credential.net/6d3d8745-60a2-454b-bfd1-8444959127f2#gs.82307v
+
 <!---
 CrystallineButterfly/WELCOME TO MANY WAVES! 
 
