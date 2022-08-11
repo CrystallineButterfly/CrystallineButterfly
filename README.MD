@@ -15,6 +15,8 @@
 
 **If you need Web3 work done, I am ready for Gigs and collabrative bounties** 
 
+More Info on my Web3 experience here = https://learnweb3.io/profiles/K42
+
 Here are 2 of my web2 qualifications: 
 
 For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
@@ -28,6 +30,6 @@ CrystallineButterfly/WELCOME TO MANY WAVES!
 
 I am an adjacent creator; 4 progressive waves 2 expansive waves 4 all 2 enjoy! 
 
-LFG, LETS CREATE THE BEST REALITIES WE CAN 4 ALL LIFE, ALL BEINGS, AND MORE = 2 THE BEST REALITY FOR LIFE!!
+LETS CREATE THE BEST REALITIES WE CAN 4 ALL LIFE, ALL BEINGS, AND MORE = 2 THE BEST REALITY FOR LIFE!!
 
 --->
