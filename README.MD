@@ -8,6 +8,8 @@
 
 **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
 
+ACTIVE ON DEWORK- If you need any web3 work done!
+
 **Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs** 
 
 ![senior baby!](https://user-images.githubusercontent.com/95975209/179993678-e29be25a-9264-4ff7-8feb-002b55cf4a22.jpg)
