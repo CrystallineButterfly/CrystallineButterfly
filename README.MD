@@ -27,6 +27,8 @@ For JavaScript:  https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2
 
 For React/Redux: https://www.credential.net/6d3d8745-60a2-454b-bfd1-8444959127f2#gs.82307v
 
+For Ruby/Rails: https://www.credential.net/dad15651-db04-45a1-ac04-0f328b5f7780#gs.ccnm7e
+
 <!---
 CrystallineButterfly/WELCOME TO MANY WAVES! 
 
