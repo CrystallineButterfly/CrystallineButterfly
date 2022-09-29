@@ -1,9 +1,7 @@
 - 🦋 **Hi, I’m @CrystallineButterfly** 🦋
-- 👀 I’m interested in quantum computing, machine learning and NFTS, web3, advanced physics engines, 
-- As well as art, topology and geometry, music, optigenetics, neuroscience, reality itself, and mind!  
-- 🌱 I’m currently learning and am active with solidity, qiskit, web3 development in general, also blender, 
-- And creating in Vr using unreal engine, and alot more!  
-- 💞️ I’m ready to synergise on web3 projects, nfts, music, a meta physics engine, development, and im very open to expansive ideas!
+- 👀 I’m interested in DAOs, Web3, quantum computing, machine learning, full stack development and creativity. 
+- 🌱 I’m currently learning and am active with solidity, three.js, web3 development in general, next.js and MEV. 
+- 💞️ I’m ready to synergise on web3 projects, nfts, music, development, and im very open to expansive ideas!
 - 📫 Communicate to me here! = https://twitter.com/CrystAlline_K42
 - ☕️ Show your support 🙏🏼 Buy me a coffee = https://www.buymeacoffee.com/crystallinek42
 
