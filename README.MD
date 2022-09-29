@@ -5,6 +5,8 @@
 - And creating in Vr using unreal engine, and alot more!  
 - 💞️ I’m ready to synergise on web3 projects, nfts, music, a meta physics engine, development, and im very open to expansive ideas!
 - 📫 Communicate to me here! = https://twitter.com/CrystAlline_K42
+- ☕️ Show your support 🙏🏼 Buy me a coffee = https://www.buymeacoffee.com/crystallinek42
+
 
 **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
 
