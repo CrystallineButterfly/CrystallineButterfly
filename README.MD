@@ -21,7 +21,7 @@ ACTIVE ON DEWORK- If you need any web3 work done!
 
 More Info on my Web3 experience here = https://learnweb3.io/profiles/K42
 
-Here are 2 of my web2 qualifications: 
+Here are 4 of my web2 qualifications: 
 
 For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
 
