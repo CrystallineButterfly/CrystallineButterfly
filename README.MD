@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and am active with solidity, three.js, web3 development in general, next.js and MEV. 
 - 💞️ I’m ready to synergise on web3 projects, nfts, music, development, and im very open to expansive ideas!
 - 📫 Communicate to me here! = https://twitter.com/CrystAlline_K42
-- ☕️ Show your support 🙏🏼 Buy me a coffee = https://www.buymeacoffee.com/crystallinek42
+- ☕️ Happy to support 🙏🏼 Buy me a coffee = https://www.buymeacoffee.com/crystallinek42 or send ETH = 0x43ce91b22541115879C425925a3507341e1918c6
 
 
 **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
@@ -18,7 +18,7 @@ Cryptographically proven qualification = Junior Web3 Dev https://opensea.io/asse
 
 More Info on my Web3 experience here = https://learnweb3.io/profiles/K42
 
-Here are 4 of my web2 qualifications: 
+Here are 5 of my web2 qualifications: 
 
 For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
 
