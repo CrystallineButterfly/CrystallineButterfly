@@ -1,4 +1,4 @@
-- 🦋 **Hi, I’m @CrystallineButterfly** 🦋
+                                               🦋 Hi, I’m @CrystallineButterfly 🦋
 - 👀 I’m interested in DAOs, Web3, quantum computing, machine learning, full stack development and creativity. 
 - 🌱 I’m currently learning and am active with solidity, three.js, web3 development in general, next.js and MEV.
 - 💞️ I’m ready to synergise on web3 projects, nfts, music, development, and im very open to expansive ideas!
