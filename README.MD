@@ -8,8 +8,6 @@
 
 **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
 
-ACTIVE ON GIGS AND BOUNTIES- If you need any web3 work done!
-
 **Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs** 
 
 Cryptographically proven qualification = Senior Web3 Dev https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746
