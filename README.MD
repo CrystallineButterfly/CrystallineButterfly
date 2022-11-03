@@ -6,7 +6,8 @@
 
 - 📫 Lets connect = https://twitter.com/CrystAlline_K42
 
-- ☕️ Happy to support 🙏🏼 https://www.buymeacoffee.com/crystallinek42 or send ETH: 0x43ce91b22541115879C425925a3507341e1918c6
+- ☕️ Happy to support 🙏🏼 https://www.buymeacoffee.com/crystallinek42 
+- ⧫ ETH: 0x43ce91b22541115879C425925a3507341e1918c6
 
 
  **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
