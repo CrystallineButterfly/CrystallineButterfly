@@ -9,30 +9,30 @@
 - ☕️ Happy to support 🙏🏼 https://www.buymeacoffee.com/crystallinek42 or send ETH: 0x43ce91b22541115879C425925a3507341e1918c6
 
 
-**I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
+ **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
 
 
-**Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs** 
+                      🛸 Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs 🛸
 
-Cryptographically proven qualification = Senior Web3 Dev https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746
+- 🤖 Cryptographically proven qualification = Senior Web3 Dev https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746
 
-Cryptographically proven qualification = Junior Web3 Dev https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/6571
+- 🤖 Cryptographically proven qualification = Junior Web3 Dev https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/6571
 
-**If you need Web3 work done, I am ready for Gigs and collabrative bounties** 
+                      🌍 If you need Web3 work done 🔮 I am ready for Gigs and collabrative bounties 🌍
 
-More Info on my Web3 experience here = https://learnweb3.io/profiles/K42
+- 👽 More Info on my Web3 experience here = https://learnweb3.io/profiles/K42
 
-Here are 5 of my web2 qualifications: 
+                                    👨🏼‍🚀 Here are 5 of my web2 qualifications 👨🏼‍🚀 
 
-For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
+- 🖥 For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
 
-For JavaScript:  https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2
+- 🖥 For JavaScript:  https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2
 
-For React/Redux: https://www.credential.net/6d3d8745-60a2-454b-bfd1-8444959127f2#gs.82307v
+- 🖥 For React/Redux: https://www.credential.net/6d3d8745-60a2-454b-bfd1-8444959127f2#gs.82307v
 
-For Ruby: https://www.credential.net/dad15651-db04-45a1-ac04-0f328b5f7780#gs.ccnm7e
+- 🖥 For Ruby: https://www.credential.net/dad15651-db04-45a1-ac04-0f328b5f7780#gs.ccnm7e
 
-For RubyOnRails: https://www.credential.net/3e9d39ec-4182-4a02-9bff-1b2b3f666e4b?record_view=true#gs.hlx4c1
+- 🖥 For RubyOnRails: https://www.credential.net/3e9d39ec-4182-4a02-9bff-1b2b3f666e4b?record_view=true#gs.hlx4c1
 
 <!---
 CrystallineButterfly/WELCOME TO MANY WAVES! 
