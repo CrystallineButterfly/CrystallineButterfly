@@ -7,7 +7,7 @@
 - 📫 Lets connect = https://twitter.com/CrystAlline_K42
 
 - ☕️ Happy to support 🙏🏼 https://www.buymeacoffee.com/crystallinek42 
-- ⧫ Wanna send me ETH or NFTs: k42.radicle.eth
+- ⧫ Wanna send me ETH or NFTs 🌊 k42.radicle.eth 🌊
 
 
  **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
