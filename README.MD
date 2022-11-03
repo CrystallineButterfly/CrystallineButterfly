@@ -1,13 +1,13 @@
 - 🦋 **Hi, I’m @CrystallineButterfly** 🦋
 - 👀 I’m interested in DAOs, Web3, quantum computing, machine learning, full stack development and creativity. 
-- 🌱 I’m currently learning and am active with solidity, three.js, web3 development in general, next.js and MEV. 
+- 🌱 I’m currently learning and am active with solidity, three.js, web3 development in general, next.js and MEV.
 - 💞️ I’m ready to synergise on web3 projects, nfts, music, development, and im very open to expansive ideas!
 
 
 - 📫 Lets connect = https://twitter.com/CrystAlline_K42
 
 - ☕️ Happy to support 🙏🏼 https://www.buymeacoffee.com/crystallinek42 
-- ⧫ ETH: 0x43ce91b22541115879C425925a3507341e1918c6
+- ⧫ Wanna send me ETH or NFTs: k42.radicle.eth
 
 
  **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
