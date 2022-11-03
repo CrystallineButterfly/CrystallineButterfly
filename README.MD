@@ -8,11 +8,12 @@
 
 **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
 
-ACTIVE ON DEWORK- If you need any web3 work done!
+ACTIVE ON GIGS AND BOUNTIES- If you need any web3 work done!
 
 **Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs** 
 
-![senior baby!](https://user-images.githubusercontent.com/95975209/179993678-e29be25a-9264-4ff7-8feb-002b55cf4a22.jpg)
+![image](https://user-images.githubusercontent.com/95975209/199694003-6e2ffd0f-b8ef-40df-84ad-a9f40f01168d.png)
+https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746
 ![Web 3 junior](https://user-images.githubusercontent.com/95975209/179016747-b7557326-2d06-4e01-9fff-0bcccec0eac4.jpg)
 
 **If you need Web3 work done, I am ready for Gigs and collabrative bounties** 
