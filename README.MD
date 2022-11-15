@@ -23,6 +23,8 @@
 - 👽 More Info on my Web3 experience here = https://learnweb3.io/profiles/K42
 
                                     👨🏼‍🚀 Here are 5 of my web2 qualifications 👨🏼‍🚀 
+                                    
+- 👾 Full-Stack-Developer: https://www.credential.net/a5505ccd-8b4b-461c-85e9-3d3b56f3c889#gs.itvj79
 
 - 🖥 For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
 
