@@ -5,6 +5,7 @@
 
 
 - 📫 Lets connect = https://twitter.com/CrystAlline_K42
+- 👾 My Version-1 Porfolio = https://just-a-realm-p2.vercel.app/
 
                         ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
 
