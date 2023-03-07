@@ -1,7 +1,7 @@
                                                🦋 Hi, I’m @CrystallineButterfly 🦋
-- 👀 I’m interested in DAOs, Web3, MEV, quantum computing, machine learning, full stack development and creativity. 
-- 🌱 I’m always learning and am active with Solidity, Three.Js, Web3 Development in general, Next.Js, React and MEV.
-- 💞️ I’m ready to synergise on Web3 Projects, NFTs, Music, Development: Im very open to innovative ideas!
+- 👀 I’m interested in DAOs, Web3, Smart-Contract Auditing, MEV, quantum computing, machine learning, full stack development and creativity. 
+- 🌱 I’m always learning and am very active with Solidity, Three.Js, Web3 Development in general, Next.Js, React and MEV.
+- 💞️ I’m ready to synergise on Web3 Projects, Bounties, NFTs, Music, Development: Im very open to innovative ideas!
 
 
 - 📫 Lets connect = https://twitter.com/CrystAlline_K42
