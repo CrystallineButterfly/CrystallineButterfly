@@ -24,7 +24,7 @@
 
                       🌍 If you need Web3 work done 🔮 I am ready for Gigs and collabrative bounties 🌍
 
-- 👽 More Info on my Web3 experience here = https://learnweb3.io/profiles/K42
+- 👽 More Info on my Web3 experience here = https://learnweb3.io/u/K42/
 
                                     👨🏼‍🚀 Here are 5 of my web2 qualifications 👨🏼‍🚀 
 
