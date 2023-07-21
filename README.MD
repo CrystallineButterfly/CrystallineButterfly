@@ -1,14 +1,15 @@
                                                🦋 Hi, I’m @CrystallineButterfly 🦋
 - 👀 I’m interested in DAOs, Web3, Smart-Contract Auditing, MEV, quantum computing, machine learning, full stack development and creativity. 
-- 🌱 I’m always learning and am very active with Solidity, Three.Js, Web3 Development in general, Next.Js, React and MEV.
+- 🌱 I’m always learning and am very active with [Solidity](https://github.com/ethereum/solidity), [Three.Js](https://github.com/mrdoob/three.js), Web3 Development in general, [Next.Js](https://github.com/vercel/next.js), and [MEV](https://ethereum.org/en/developers/docs/mev/).
 - 💞️ I’m ready to synergise on Web3 Projects, Bounties, NFTs, Music, Development: Im very open to innovative ideas!
-- 🦉 Currently a warden and watson on Code4Rena and Sherlock, also judging audits on Sherlock! 
+- 🦉 Currently a warden and watson on [Code4Rena](https://code4rena.com/) and [Sherlock](https://audits.sherlock.xyz/contests), also judging audits on Sherlock! 
 
 
-- 📫 [Lets connect](https://twitter.com/CrystAlline_K42) 🙏
+- 🐦 [Lets connect](https://twitter.com/CrystAlline_K42) 🙏
 - 👾 [My Version-1 Portfolio](https://just-a-realm-p2.vercel.app/) 👁️
 - 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 - 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42) 💎
+- 🔮 [My LearnWeb3 Portfolio](https://learnweb3.io/u/K42/) 
 
                         ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
 
@@ -18,13 +19,11 @@
 
                       🛸 Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs 🛸
 
-- 🤖 Cryptographically proven qualification = Senior Web3 Dev https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746
+- 🤖 Cryptographically proven qualification: [Senior Web3 Dev](https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746)
 
-- 🤖 Cryptographically proven qualification = Junior Web3 Dev https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/6571
+- 🤖 Cryptographically proven qualification: [Junior Web3 Dev](https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/6571)
 
                       🌍 If you need Web3 work done 🔮 I am ready for Gigs and collabrative bounties 🌍
-
-- 👽 More Info on my Web3 experience here = https://learnweb3.io/u/K42/
 
                                     👨🏼‍🚀 Here are 5 of my web2 qualifications 👨🏼‍🚀 
 
