@@ -9,7 +9,7 @@
 - 👾 [My Version-1 Portfolio](https://just-a-realm-p2.vercel.app/) 👁️
 - 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 - 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42) 💎
-- 🔮 [My LearnWeb3 Portfolio](https://learnweb3.io/u/K42/) 
+- 🔮 [My LearnWeb3 Portfolio](https://learnweb3.io/u/K42/) ⚕️
 
                         ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
 
