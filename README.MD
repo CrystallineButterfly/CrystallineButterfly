@@ -5,10 +5,10 @@
 - 🦉 Currently a warden and watson on Code4Rena and Sherlock, also judging audits on Sherlock! 
 
 
-- 📫 Lets connect = https://twitter.com/CrystAlline_K42
-- 👾 My Version-1 Portfolio = https://just-a-realm-p2.vercel.app/
-- 🦋 My MusicNft 1/1s = https://foundation.app/@CrystallineButterfly
-- 👽 My Code4Rena Portfolio = https://code4rena.com/@K42
+- 📫 [Lets connect](https://twitter.com/CrystAlline_K42)🙏
+- 👾 [My Version-1 Portfolio](https://just-a-realm-p2.vercel.app/)👁️
+- 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly)🏄‍♀️
+- 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42)💎
 
                         ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
 
