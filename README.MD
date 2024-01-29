@@ -3,7 +3,7 @@
 - 🌱 I’m always learning and am very active with [Solidity](https://github.com/ethereum/solidity), [Three.Js](https://github.com/mrdoob/three.js), Web3 Development in general, [Next.Js](https://github.com/vercel/next.js), and [MEV](https://ethereum.org/en/developers/docs/mev/).
 - 💞️ I’m ready to synergise on Web3 Projects, Bounties, NFTs, Music, Development: Im very open to innovative ideas!
 - 🦉 Currently a warden and watson on [Code4Rena](https://code4rena.com/) and [Sherlock](https://audits.sherlock.xyz/contests), also judging audits on Sherlock! 
-
+- 🦇🔊
 
 - 🐦 [Lets connect](https://twitter.com/CrystAlline_K42) 🙏
 - 👾 [My Version-1 Portfolio](https://just-a-realm-p2.vercel.app/) 👁️
