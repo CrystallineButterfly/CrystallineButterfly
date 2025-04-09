@@ -10,7 +10,7 @@
 - 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 - 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42) 💎
 - 🔮 [My LearnWeb3 Portfolio](https://learnweb3.io/u/K42/) ⚕️
-- 🕵️‍♂️ [Need gas optimization help, or security audit?](https://app.findaudit.xyz/p/k42) 🗿
+- 🕵️‍♂️ [Need gas optimization help, or security audit?](https://audits.sherlock.xyz/watson/K42) 🗿
 
                         ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
 
