@@ -52,3 +52,8 @@ LETS CREATE THE BEST REALITIES WE CAN 4 ALL LIFE, ALL BEINGS, AND MORE = 2 THE B
 - And for fun = 
 
 <a href="https://gitroll.io/profile/uR6uUGRvXLXMJuP3CQoNNii9KM8R2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uR6uUGRvXLXMJuP3CQoNNii9KM8R2" alt="GitRoll Profile Badge"/></a>
+
+
+- Buy me a coffee so I can audit and cyborg smash better? 
+
+[☕](buymeacoffee.com/crystallinek42)
