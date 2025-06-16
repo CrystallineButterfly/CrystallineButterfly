@@ -5,7 +5,7 @@
 - 🦉 Currently a warden and watson on [Code4Rena](https://code4rena.com/@K42) and [Sherlock](https://audits.sherlock.xyz/watson/K42), also judging audits on Sherlock! 
 - 🦇🔊
 
-- 🐦 [Lets connect](https://twitter.com/CrystAlline_K42) 🙏
+- 🐦 [Lets connect](https://twitter.com/0xK42) 🙏
 - 👾 [My Version-1 Portfolio](https://just-a-realm-p2.vercel.app/) 👁️
 - 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 - 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42) 💎
