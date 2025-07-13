@@ -1,4 +1,4 @@
-                                               🦋 Hi, I’m @CrystallineButterfly 🦋
+                                               🦋 Hi, I’m @K42 🦋
 - 👀 I’m interested in DAOs, Web3, Smart-Contract Auditing, MEV, quantum computing, machine learning, full stack development and creativity. 
 - 🌱 I’m always learning and am very active with [Solidity](https://github.com/ethereum/solidity), [Three.Js](https://github.com/mrdoob/three.js), Web3 Development in general, [Next.Js](https://github.com/vercel/next.js), and [MEV](https://ethereum.org/en/developers/docs/mev/).
 - 💞️ I’m ready to synergise on Web3 Projects, Bounties, NFTs, Music, Development: Im very open to innovative ideas!
