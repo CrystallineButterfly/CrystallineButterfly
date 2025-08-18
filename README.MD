@@ -26,17 +26,17 @@
 
                                     👨🏼‍🚀 Here are 5 of my web2 qualifications 👨🏼‍🚀 
 
-- 🖥 For HTML/CSS: https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499
+- 🖥 For [HTML/CSS](https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499)
 
-- 🖥 For JavaScript:  https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2
+- 🖥 For [JavaScript](https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2)
 
-- 🖥 For React/Redux: https://www.credential.net/6d3d8745-60a2-454b-bfd1-8444959127f2#gs.82307v
+- 🖥 For [React/Redux](https://www.credential.net/6d3d8745-60a2-454b-bfd1-8444959127f2#gs.82307v)
 
-- 🖥 For Ruby: https://www.credential.net/dad15651-db04-45a1-ac04-0f328b5f7780#gs.ccnm7e
+- 🖥 For [Ruby](https://www.credential.net/dad15651-db04-45a1-ac04-0f328b5f7780#gs.ccnm7e)
 
-- 🖥 For RubyOnRails: https://www.credential.net/3e9d39ec-4182-4a02-9bff-1b2b3f666e4b?record_view=true#gs.hlx4c1
+- 🖥 For [RubyOnRails](https://www.credential.net/3e9d39ec-4182-4a02-9bff-1b2b3f666e4b?record_view=true#gs.hlx4c1)
 
-- 🖥 For Full-Stack-Development: https://www.credential.net/a5505ccd-8b4b-461c-85e9-3d3b56f3c889#gs.itvj79
+- 🖥 For [Full-Stack-Development](https://www.credential.net/a5505ccd-8b4b-461c-85e9-3d3b56f3c889#gs.itvj79)
 
 <!---
 CrystallineButterfly/WELCOME TO MANY WAVES! 
