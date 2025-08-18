@@ -1,4 +1,4 @@
-                                               🦋 Hi, I’m @K42 🦋
+                                               🦋 Hi, I’m @K42, I will find exploits in your smart contractz 🦋
 - 👀 I’m interested in Smart-Contract Auditing, MEV, quantum computing, machine learning, and creativity. 
 - 🌱 I’m always learning and am very active with [Solidity](https://github.com/ethereum/solidity), and contests, see my [Code4Rena](https://code4rena.com/@K42) I am always keen to do private auditz💎
 - 💞️ I’m ready to find exploits in your smart contracts! 
