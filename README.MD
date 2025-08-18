@@ -1,16 +1,14 @@
                                                🦋 Hi, I’m @K42, I will find exploits in your smart contractz 🦋
 - 👀 I’m interested in Smart-Contract Auditing, MEV, quantum computing, machine learning, and creativity. 
 - 🌱 I’m always learning and am very active with [Solidity](https://github.com/ethereum/solidity), and contests, see my [Code4Rena](https://code4rena.com/@K42) I am always keen to do private auditz💎
-- 💞️ I’m ready to find exploits in your smart contracts! 
 - 🦉 Currently a warden on [Code4Rena](https://code4rena.com/@K42) and active in other contests and private auditz 
-- 🦇🔊
 
-- 🐦 [Reach our for a private audit](https://t.me/IAMK42) 🙏
+- 🐦 [Reach our for a private audit here](https://t.me/IAMK42) 🙏
 - 👾 [My Audit Portfolio](https://k42auditz.io/) 👁️
-- 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 - 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42) 💎
 - 🔮 [My LearnWeb3 Portfolio](https://learnweb3.io/u/K42/) ⚕️
 - 🕵️‍♂️ [Need gas optimization help, or security audit?](https://audits.sherlock.xyz/watson/K42) 🗿
+- 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 
                         ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
 
