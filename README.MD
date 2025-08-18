@@ -10,8 +10,6 @@
 - 🕵️‍♂️ [Need gas optimization help, or security audit?](https://audits.sherlock.xyz/watson/K42) 🗿
 - 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 
-#### ⧫ Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
-
 
    **🌍 If you need smart contract auditz done 🔮 I am ready to find exploits in your code 🌍**
 
@@ -39,4 +37,6 @@ LETS CREATE THE BEST REALITIES WE CAN 4 ALL LIFE, ALL BEINGS, AND MORE = 2 THE B
 --->
 - And for fun = 
 <a href="https://gitroll.io/profile/uR6uUGRvXLXMJuP3CQoNNii9KM8R2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uR6uUGRvXLXMJuP3CQoNNii9KM8R2" alt="GitRoll Profile Badge"/></a>
-- Buy me a coffee so I can audit and cyborg smash better? Click me [☕](buymeacoffee.com/crystallinek42)
+
+
+- Buy me a coffee with  ⧫ ETH ⧫ so I can audit and cyborg smash better? 🌊: k42.radicle.eth :🌊  
