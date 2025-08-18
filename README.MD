@@ -15,7 +15,7 @@
                         ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
 
 
- **I am open and ready for web3 gigs, and hackathon/bounty collaboration-**
+ **I am open and ready for smart contract auditz for you**
 
 
                       🛸 Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs 🛸
