@@ -1,4 +1,4 @@
-                                  🦋 Hi, I’m @K42, I will find exploits in your smart contractz 🦋
+                        🦋 Hi, I’m @K42, I will find exploits in your smart contractz 🦋
 - 👀 I’m interested in Smart-Contract Auditing, MEV, quantum computing, machine learning, and creativity. 
 - 🌱 I’m always learning and am very active with [Solidity](https://github.com/ethereum/solidity), and contests, see my [Code4Rena](https://code4rena.com/@K42) I am always keen to do private auditz💎
 - 🦉 Currently a warden on [Code4Rena](https://code4rena.com/@K42) and active in other contests and private auditz 
@@ -10,17 +10,17 @@
 - 🕵️‍♂️ [Need gas optimization help, or security audit?](https://audits.sherlock.xyz/watson/K42) 🗿
 - 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 
-        ⧫  Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator ⧫ 
+        ⧫ `Show support with ETH 🌊: k42.radicle.eth :🌊 My Quest to become a validator` ⧫ 
 
 
    **🌍 If you need smart contract auditz done 🔮 I am ready to find exploits in your code 🌍**
 
 
-         🛸 Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs 🛸
+         🛸 `Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs` 🛸
 - 🤖 Cryptographically proven qualification: [Senior Web3 Dev](https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746)
 - 🤖 Cryptographically proven qualification: [Junior Web3 Dev](https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/6571)
 
-                        👨🏼‍🚀 Here are 5 of my web2 qualifications 👨🏼‍🚀 
+                        👨🏼‍🚀 `Here are 5 of my web2 qualifications` 👨🏼‍🚀 
 
 - 🖥 For [HTML/CSS](https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499)
 - 🖥 For [JavaScript](https://www.credential.net/ad61bb49-2de3-4d4d-a2e4-b234578b92e2)
