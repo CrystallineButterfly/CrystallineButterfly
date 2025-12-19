@@ -14,9 +14,11 @@
    **🌍 If you need smart contract auditz done 🔮 I am ready to find exploits in your code 🌍**
 
 
-#### 🛸 Here are 2 of my most recent web3 qualifications- 2 verified qualification NFTs 🛸
+#### 🛸 Here are 3 of my most recent web3 qualifications- 2 verified qualification NFTs 🛸
 - 🤖 Cryptographically proven qualification: [Senior Web3 Dev](https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/5746)
 - 🤖 Cryptographically proven qualification: [Junior Web3 Dev](https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/6571)
+- 🤖 Rektoff bootcamp by solanaFnd for finding exploits in `rust` = [Graduation Certificate](https://drive.google.com/file/d/1SGzTKVCL85JMYEfeYBemIHv4yayraGw9/view?usp=sharing)
+- 🤖 Skills gained in auditing rust from Rektoff = [White hat saving rust](https://drive.google.com/file/d/10A0l9ROqXpDBbx_yFc-4C-2gK5cQwUA0/view?usp=sharing)
 
 #### 👨🏼‍🚀 Here are 5 of my web2 qualifications 👨🏼‍🚀 
 - 🖥 For [HTML/CSS](https://www.credential.net/9287b2e2-7fd3-4fbc-9a0f-fb77081bc499)
