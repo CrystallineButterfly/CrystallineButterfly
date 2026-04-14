@@ -41,13 +41,3 @@ LETS CREATE THE BEST REALITIES WE CAN 4 ALL LIFE, ALL BEINGS, AND MORE = 2 THE B
 <a href="https://gitroll.io/profile/uR6uUGRvXLXMJuP3CQoNNii9KM8R2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uR6uUGRvXLXMJuP3CQoNNii9KM8R2?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 - Buy me a coffee with  ⧫ ETH ⧫ so I can audit and cyborg smash better? 🌊: k42.radicle.eth :🌊  
-
-#### 🧠 Other qualifications 🧠
-- 🧠 [Learning how to learn: Powerful mental tools to help you master tough subjects](https://coursera.org/share/a5992230f48b7cfa65490bae1de86818)
-- 🧠 [Quantum machine learning](https://coursera.org/share/f6e9daac4452da648fff0add19210417)
-- 🧠 [Digitalisation in the aerospace industry](https://coursera.org/share/e4f9cdb3b6234398e6b672e52184526d) – Technical University of Munich (TUM)
-- 🧠 [Mycelium growth with netLogo web](https://coursera.org/share/1d839c3521fcf9170d9d50b5f27e8f41)
-- 🧠 [Particle dynamics](https://coursera.org/share/2bf84e6afb2821719874eed683db4b33) – Korea Advanced Institute of Science and Technology (KAIST)
-- 🧠 [Quantum mechanics](https://coursera.org/share/170e0959e1785a01a894649602cf623c) – University of Colorado Boulder
-- 🧠 [Fundamentals of macroscopic and microscopic thermodynamics](https://coursera.org/share/20cdd195dfa95cbc21a77ac3015aaa54) – University of Colorado Boulder
-- 🧠 [Particle physics](https://coursera.org/share/3ebf362ed6a18d45a948be543b8c3b4a)
