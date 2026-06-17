@@ -1,6 +1,6 @@
      🦋 Hi, I’m @K42, I will find exploits in your smart contractz and infra 🦋
-- 👀 I’m active in Smart-Contract and blockchain dlt Auditing, MEV, quantum computing, machine learning, and creativity. 
-- 🌱 I’m always learning and am very active with [Solidity](https://github.com/ethereum/solidity), [Move](https://github.com/move-language/move), and [Rust](https://github.com/rust-lang/rust) in contests, see my [Code4Rena](https://code4rena.com/@K42) I am always keen to do private auditz💎
+- 👀 I’m active in Smart-Contract and Blockchain-DLT auditing, MEV, quantum computing, machine learning, and creativity. 
+- 🌱 I am very active with [Solidity](https://github.com/ethereum/solidity), [Move](https://github.com/move-language/move), and [Rust](https://github.com/rust-lang/rust) in contests, see my [Code4Rena](https://code4rena.com/@K42) I am always keen to do private auditz💎
 - 🦉 Currently a warden on [Code4Rena](https://code4rena.com/@K42) and active in other contests and private auditz 
 
 - 🐦 [Reach our for a private audit here](https://t.me/IAMK42) 🙏
