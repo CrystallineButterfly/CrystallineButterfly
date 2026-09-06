@@ -4,7 +4,7 @@
 - 🦉 Currently a warden on [Code4Rena](https://code4rena.com/@K42) and active in other contests and private auditz 
 
 - 🐦 [Reach our for a private audit here](https://t.me/IAMK42) 🙏
-- 👾 [My Audit Portfolio](https://k42auditz.io/) 👁️
+- 👾 [My Audit Portfolio](https://k42auditz.com) 👁️
 - 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42) 💎
 - 🔮 [My LearnWeb3 Portfolio](https://learnweb3.io/u/K42/) ⚕️
 - 🕵️‍♂️ [Need gas optimization help, or security audit?](https://audits.sherlock.xyz/watson/K42) 🗿
