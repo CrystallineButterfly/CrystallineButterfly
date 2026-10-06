@@ -1,17 +1,16 @@
      🦋 Hi, I’m @K42, I will find exploits in your smart contractz and infra 🦋
-- 👀 I’m active in Smart-Contract and Blockchain-DLT auditing, MEV, quantum computing, machine learning, and creativity. 
-- 🌱 I am very active with [Solidity](https://github.com/ethereum/solidity), [Move](https://github.com/move-language/move), and [Rust](https://github.com/rust-lang/rust) in contests, see my [Code4Rena](https://code4rena.com/@K42) I am always keen to do private auditz💎
-- 🦉 Currently a warden on [Code4Rena](https://code4rena.com/@K42) and active in other contests and private auditz 
+- 👀 Main quests = Smart Contract and Blockchain DLT auditing, white hat. Side quests = MEV, quantum computing, machine learning. 
+- 🌱 Very active with [Solidity](https://github.com/ethereum/solidity), [Move](https://github.com/move-language/move), and [Rust](https://github.com/rust-lang/rust) in contests, see [my audit portfolio](https://k42auditz.com) 
+- 🦉 Currently active in bounties and work with pashov audit group, and am available for private auditz. 
 
-- 🐦 [Reach our for a private audit here](https://t.me/IAMK42) 🙏
+- 🐦 [Fill out my form for an audit quote, can start within 24hours](https://k42auditz.com/form) 🕵️‍♂️ 
 - 👾 [My Audit Portfolio](https://k42auditz.com) 👁️
 - 👽 [My Code4Rena Portfolio](https://code4rena.com/@K42) 💎
 - 🔮 [My LearnWeb3 Portfolio](https://learnweb3.io/u/K42/) ⚕️
-- 🕵️‍♂️ [Need gas optimization help, or security audit?](https://audits.sherlock.xyz/watson/K42) 🗿
 - 🦋 [My MusicΝFTs](https://foundation.app/@CrystallineButterfly) 🏄‍♀️
 
 
-   **🌍 If you need smart contract auditz done 🔮 I am ready to find exploits in your code 🌍**
+   **🌍 If you need smart contract auditz done 🔮 I am ready to find exploits in your code - 🌍**
 
 
 #### 🛸 Here are 3 of my most recent web3 qualifications- 2 verified qualification NFTs 🛸
