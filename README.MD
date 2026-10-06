@@ -1,5 +1,6 @@
      🦋 Hi, I’m @K42, I will find exploits in your smart contractz and infra 🦋
-- 👀 Main quests = Smart Contract and Blockchain DLT auditing, white hat. Side quests = MEV, quantum computing, machine learning/breaking. 
+- 👀 Main quests = Smart Contract and Blockchain DLT auditing, white hat.
+- 👀 Side quests = MEV, quantum computing, machine learning/breaking. 
 - 🌱 Very active with [Solidity](https://github.com/ethereum/solidity), [Move](https://github.com/move-language/move), and [Rust](https://github.com/rust-lang/rust) in contests, see [my audit portfolio](https://k42auditz.com) 
 - 🦉 Currently active in bounties and work with pashov audit group, and am available for private auditz. 
 
